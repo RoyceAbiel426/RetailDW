@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36915.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "dwbi-online-retails", "dwbi-online-retails.dtproj", "{129AF6DC-45CC-6D5A-2F9A-FBCBEE562905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129AF6DC-45CC-6D5A-2F9A-FBCBEE562905}.Development|Default.ActiveCfg = Development
+		{129AF6DC-45CC-6D5A-2F9A-FBCBEE562905}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9486AF0-E87D-4661-AF63-DD0BD2E8F1CD}
+	EndGlobalSection
+EndGlobal
