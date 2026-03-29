@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Retail_Load_Staging"
   DTS:PackageType="5"
-  DTS:VersionBuild="15"
-  DTS:VersionGUID="{2AADF37B-DB10-4218-B902-1818786E3276}">
+  DTS:VersionBuild="27"
+  DTS:VersionGUID="{2E174D1E-962C-4AD2-B33B-51611582C5F1}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACv0qWXsX44nSyDyJqocwj7C+48MFeqhOO8FS/GK2cOZAAAAAAOgAAAAAIAACAAAADV/Lx/ZOsVFAb6WtA1/9lWUNHgDZToxDoZQ7355Z9JViAAAAB5TVE99K7EF00zWJJe4JXBCgkrN173F3x9SOrBQQi8ckAAAABJXJndJh/serkcwMWf6RZ4/NEoSc9HD3b2XOOn9d8Nr4ugWE/PN4RBLOc0r+tBe2ziM2ApW3suAnR1aRyagFqr</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAtW+LCkDjnRsBeXHEtfu5f0hwSudQj9lKSbn1+baXKUwAAAAAOgAAAAAIAACAAAAA3Eb4TBiYZE0SxRO5m7glRX3AQA5UOGdmUFhKWws6h3yAAAACBOnZnd5Olf2bEk2w3Tt4aMpLSwtbqYbnKjGu5r3H64kAAAAD6pB3kftds2QKGa4TEbX1w8prqygv4F3VTbFdxQh/yVi/DNBYhYMVTJC48eeQ2lzI5rgRyuBDUFNlMMveWNat6</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABdrZo3aTEpb5sE5X+ayTApDrdVH5HwLUnRil26+XTwlwAAAAAOgAAAAAIAACAAAAAslzG5jTfUDVlefXZ0itHVBjPfmxEgUbp8F2cWT4UgWyAAAACDfHCSoIC3Adfk/wATVEmbwlYbjMFLqfdWPFtv8j+IDEAAAABSgUiMhGjSZS7FRA4eca0UrHz3Xgw2yKkjkc0Ou9dp5bh+WiStaB32NoWj0UbzXi49YbuDNMmwOS5NOMoqPtb3</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB8Oj9mfRpTLx1XCxLf4b3X6tzP5g4PtmGyVsuEcV6/xQAAAAAOgAAAAAIAACAAAAA9yvWyYG2PSpr9J0Z7ErTTfqHm2L239NhVT8JrE7rPtCAAAAD3qHcx4plYM9x07ZDPHkecwbryiskTEmqEkuCnQkL7ekAAAACupVUlwWee2IQuh4nq8rzrV2S51L6MVxtL45tD5RK65s9m4D0iXWvLFI4L7frMcPObbzhF4MITyzrits1lpWDI</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB6wFmRKlqIWYDWdzMZ2HqIM+qNpfplk440jYL5rqplvQAAAAAOgAAAAAIAACAAAAAmDUJYMzkKW2VmM7wdjYPTrOk9u854WAfJZQXC+HRRXCAAAAASUPcYbsjvlyv0hSCttqJvgUOlUPNDchGf5/thmZ/dWUAAAAD1QIBAVpnFDOOmM/NO70BAHpKU+un4bcZP9JRBDw1AAeuVmkooyEBziQNv8qR7NkJE7aWTV5Nw+Ib9+TWX1J2M</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADRZN/W+UvroopRd32WZuIQPb6JZk+kssH0hAVZitMazAAAAAAOgAAAAAIAACAAAABLjm6Cr5/8D5sqhjcQdOUJcahu21PnrAzV4JyO7mDwMSAAAACrAe89v1z1Rm7fDBzqQk3s7H05cP+EbXJJXCtH/xDG/UAAAAAnnhYCEql7IxPP2+vA85mfVUz6Gr8gxszt7dNPxhsyHm8YvYPSRn7cnd+ERTIYyiLMm+S4SjAKmc4BbdwSSC0F</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -1450,6 +1450,249 @@
           version="1">
           <components>
             <component
+              refId="Package\Extract Transactions Data to Staging\Data Conversion"
+              componentClassID="Microsoft.DataConvert"
+              contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Data Conversion"
+              name="Data Conversion"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Extract Transactions Data to Staging\Data Conversion.Inputs[Data Conversion Input]"
+                  name="Data Conversion Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Inputs[Data Conversion Input].Columns[InvoiceNo]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="InvoiceNo"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[InvoiceNo]" />
+                    <inputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Inputs[Data Conversion Input].Columns[StockCode]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="StockCode"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[StockCode]" />
+                    <inputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Inputs[Data Conversion Input].Columns[Description]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Description"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[Description]" />
+                    <inputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Inputs[Data Conversion Input].Columns[Quantity]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="Quantity"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[Quantity]" />
+                    <inputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Inputs[Data Conversion Input].Columns[InvoiceDate]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="InvoiceDate"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[InvoiceDate]" />
+                    <inputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Inputs[Data Conversion Input].Columns[UnitPrice]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="UnitPrice"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[UnitPrice]" />
+                    <inputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Inputs[Data Conversion Input].Columns[CustomerID]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="50"
+                      cachedName="CustomerID"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[CustomerID]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output]"
+                  exclusionGroup="1"
+                  name="Data Conversion Output"
+                  synchronousInputId="Package\Extract Transactions Data to Staging\Data Conversion.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of InvoiceNo]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of InvoiceNo]"
+                      name="Copy of InvoiceNo"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[InvoiceNo]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of StockCode]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of StockCode]"
+                      name="Copy of StockCode"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[StockCode]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Description]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      length="50"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Description]"
+                      name="Copy of Description"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[Description]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Quantity]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Quantity]"
+                      name="Copy of Quantity"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[Quantity]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of InvoiceDate]"
+                      dataType="dbTimeStamp"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of InvoiceDate]"
+                      name="Copy of InvoiceDate"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[InvoiceDate]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of UnitPrice]"
+                      dataType="numeric"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of UnitPrice]"
+                      name="Copy of UnitPrice"
+                      precision="18"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[UnitPrice]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of CustomerID]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of CustomerID]"
+                      name="Copy of CustomerID"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[CustomerID]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Data Conversion Error Output"
+                  synchronousInputId="Package\Extract Transactions Data to Staging\Data Conversion.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
               refId="Package\Extract Transactions Data to Staging\OLE DB Destination"
               componentClassID="Microsoft.OLEDBDestination"
               contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
@@ -1465,7 +1708,7 @@
                 <property
                   dataType="System.String"
                   description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[stg_Transactions]</property>
+                  name="OpenRowset">[dbo].[stg_Transactions]</property>
                 <property
                   dataType="System.String"
                   description="Specifies the variable that contains the name of the database object used to open a rowset."
@@ -1522,64 +1765,87 @@
                   name="OLE DB Destination Input">
                   <inputColumns>
                     <inputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CategoryID]"
-                      cachedCodepage="1252"
-                      cachedDataType="str"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Copy of InvoiceNo]"
+                      cachedDataType="wstr"
                       cachedLength="50"
-                      cachedName="CategoryID"
-                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CategoryID]"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[CategoryID]" />
+                      cachedName="Copy of InvoiceNo"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[InvoiceNo]"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of InvoiceNo]" />
                     <inputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[CategoryName]"
-                      cachedCodepage="1252"
-                      cachedDataType="str"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Copy of StockCode]"
+                      cachedDataType="wstr"
                       cachedLength="50"
-                      cachedName="CategoryName"
-                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CategoryName]"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[CategoryName]" />
+                      cachedName="Copy of StockCode"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[StockCode]"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of StockCode]" />
                     <inputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SubCategoryID]"
-                      cachedCodepage="1252"
-                      cachedDataType="str"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Copy of Description]"
+                      cachedDataType="wstr"
                       cachedLength="50"
-                      cachedName="SubCategoryID"
-                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SubCategoryID]"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[SubCategoryID]" />
+                      cachedName="Copy of Description"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Description]"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Description]" />
                     <inputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[SubCategoryName]"
-                      cachedCodepage="1252"
-                      cachedDataType="str"
-                      cachedLength="50"
-                      cachedName="SubCategoryName"
-                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SubCategoryName]"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[SubCategoryName]" />
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Copy of Quantity]"
+                      cachedDataType="i4"
+                      cachedName="Copy of Quantity"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Quantity]"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Quantity]" />
+                    <inputColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Copy of InvoiceDate]"
+                      cachedDataType="dbTimeStamp"
+                      cachedName="Copy of InvoiceDate"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[InvoiceDate]"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of InvoiceDate]" />
+                    <inputColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Copy of UnitPrice]"
+                      cachedDataType="numeric"
+                      cachedName="Copy of UnitPrice"
+                      cachedPrecision="18"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[UnitPrice]"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of UnitPrice]" />
+                    <inputColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].Columns[Copy of CustomerID]"
+                      cachedDataType="i4"
+                      cachedName="Copy of CustomerID"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CustomerID]"
+                      lineageId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of CustomerID]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CategoryID]"
-                      codePage="1252"
-                      dataType="str"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[InvoiceNo]"
+                      dataType="wstr"
                       length="50"
-                      name="CategoryID" />
+                      name="InvoiceNo" />
                     <externalMetadataColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CategoryName]"
-                      codePage="1252"
-                      dataType="str"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[StockCode]"
+                      dataType="wstr"
                       length="50"
-                      name="CategoryName" />
+                      name="StockCode" />
                     <externalMetadataColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SubCategoryID]"
-                      codePage="1252"
-                      dataType="str"
-                      length="50"
-                      name="SubCategoryID" />
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Description]"
+                      dataType="wstr"
+                      length="255"
+                      name="Description" />
                     <externalMetadataColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[SubCategoryName]"
-                      codePage="1252"
-                      dataType="str"
-                      length="50"
-                      name="SubCategoryName" />
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[Quantity]"
+                      dataType="i4"
+                      name="Quantity" />
+                    <externalMetadataColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[InvoiceDate]"
+                      dataType="dbTimeStamp"
+                      name="InvoiceDate" />
+                    <externalMetadataColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[UnitPrice]"
+                      dataType="numeric"
+                      name="UnitPrice"
+                      precision="18"
+                      scale="2" />
+                    <externalMetadataColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input].ExternalColumns[CustomerID]"
+                      dataType="i4"
+                      name="CustomerID" />
                   </externalMetadataColumns>
                 </input>
               </inputs>
@@ -1624,7 +1890,7 @@
                 <property
                   dataType="System.String"
                   description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[dbo].[ProductCategories]</property>
+                  name="OpenRowset">[dbo].[Transactions]</property>
                 <property
                   dataType="System.String"
                   description="Specifies the variable that contains the name of the database object used to open a rowset."
@@ -1633,7 +1899,21 @@
                   dataType="System.String"
                   description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT
+    CAST(t.InvoiceNo AS VARCHAR(50)) AS InvoiceNo,
+
+    t.StockCode,
+    p.Description,
+    TRY_CAST(t.Quantity AS INT) AS Quantity,
+    t.InvoiceDate,
+    TRY_CAST(t.Price AS DECIMAL(18,2)) AS UnitPrice,
+    TRY_CAST(TRY_CAST(t.CustomerID AS DECIMAL(18,0)) AS INT) AS CustomerID
+FROM RetailOLTP.dbo.Transactions t
+LEFT JOIN RetailOLTP.dbo.Products p
+    ON t.StockCode = p.StockCode
+WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
+  AND TRY_CAST(t.Price AS DECIMAL(18,2)) IS NOT NULL
+  AND TRY_CAST(TRY_CAST(t.CustomerID AS DECIMAL(18,0)) AS INT) IS NOT NULL;</property>
                 <property
                   dataType="System.String"
                   description="The variable that contains the SQL command to be executed."
@@ -1650,7 +1930,7 @@
                   dataType="System.Int32"
                   description="Specifies the mode used to access the database."
                   name="AccessMode"
-                  typeConverter="AccessMode">0</property>
+                  typeConverter="AccessMode">2</property>
                 <property
                   dataType="System.String"
                   description="The mappings between the parameters in the SQL command and variables."
@@ -1670,76 +1950,123 @@
                   name="OLE DB Source Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[CategoryID]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[InvoiceNo]"
                       codePage="1252"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CategoryID]"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[InvoiceNo]"
                       length="50"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[CategoryID]"
-                      name="CategoryID"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[InvoiceNo]"
+                      name="InvoiceNo"
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[CategoryName]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[StockCode]"
                       codePage="1252"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CategoryName]"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[StockCode]"
                       length="50"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[CategoryName]"
-                      name="CategoryName"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[StockCode]"
+                      name="StockCode"
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[SubCategoryID]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[Description]"
                       codePage="1252"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[SubCategoryID]"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Description]"
                       length="50"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[SubCategoryID]"
-                      name="SubCategoryID"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[Description]"
+                      name="Description"
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[SubCategoryName]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[Quantity]"
                       codePage="1252"
                       dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[SubCategoryName]"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Quantity]"
                       length="50"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[SubCategoryName]"
-                      name="SubCategoryName"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[Quantity]"
+                      name="Quantity"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[InvoiceDate]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[InvoiceDate]"
+                      length="50"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[InvoiceDate]"
+                      name="InvoiceDate"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[UnitPrice]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[UnitPrice]"
+                      length="50"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[UnitPrice]"
+                      name="UnitPrice"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[CustomerID]"
+                      codePage="1252"
+                      dataType="str"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CustomerID]"
+                      length="50"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].Columns[CustomerID]"
+                      name="CustomerID"
                       truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
                     <externalMetadataColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CategoryID]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[InvoiceNo]"
                       codePage="1252"
                       dataType="str"
                       length="50"
-                      name="CategoryID" />
+                      name="InvoiceNo" />
                     <externalMetadataColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CategoryName]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[StockCode]"
                       codePage="1252"
                       dataType="str"
                       length="50"
-                      name="CategoryName" />
+                      name="StockCode" />
                     <externalMetadataColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[SubCategoryID]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Description]"
                       codePage="1252"
                       dataType="str"
                       length="50"
-                      name="SubCategoryID" />
+                      name="Description" />
                     <externalMetadataColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[SubCategoryName]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[Quantity]"
+                      dataType="i4"
+                      name="Quantity" />
+                    <externalMetadataColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[InvoiceDate]"
                       codePage="1252"
                       dataType="str"
                       length="50"
-                      name="SubCategoryName" />
+                      name="InvoiceDate" />
+                    <externalMetadataColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[UnitPrice]"
+                      dataType="numeric"
+                      name="UnitPrice"
+                      precision="18"
+                      scale="2" />
+                    <externalMetadataColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output].ExternalColumns[CustomerID]"
+                      dataType="i4"
+                      name="CustomerID" />
                   </externalMetadataColumns>
                 </output>
                 <output
@@ -1748,33 +2075,50 @@
                   name="OLE DB Source Error Output">
                   <outputColumns>
                     <outputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CategoryID]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[InvoiceNo]"
                       codePage="1252"
                       dataType="str"
                       length="50"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CategoryID]"
-                      name="CategoryID" />
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[InvoiceNo]"
+                      name="InvoiceNo" />
                     <outputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CategoryName]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[StockCode]"
                       codePage="1252"
                       dataType="str"
                       length="50"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CategoryName]"
-                      name="CategoryName" />
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[StockCode]"
+                      name="StockCode" />
                     <outputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[SubCategoryID]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Description]"
                       codePage="1252"
                       dataType="str"
                       length="50"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[SubCategoryID]"
-                      name="SubCategoryID" />
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Description]"
+                      name="Description" />
                     <outputColumn
-                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[SubCategoryName]"
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Quantity]"
+                      dataType="i4"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[Quantity]"
+                      name="Quantity" />
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[InvoiceDate]"
                       codePage="1252"
                       dataType="str"
                       length="50"
-                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[SubCategoryName]"
-                      name="SubCategoryName" />
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[InvoiceDate]"
+                      name="InvoiceDate" />
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[UnitPrice]"
+                      dataType="numeric"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[UnitPrice]"
+                      name="UnitPrice"
+                      precision="18"
+                      scale="2" />
+                    <outputColumn
+                      refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CustomerID]"
+                      dataType="i4"
+                      lineageId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[CustomerID]"
+                      name="CustomerID" />
                     <outputColumn
                       refId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
                       dataType="i4"
@@ -1795,8 +2139,13 @@
           </components>
           <paths>
             <path
-              refId="Package\Extract Transactions Data to Staging.Paths[OLE DB Source Output]"
+              refId="Package\Extract Transactions Data to Staging.Paths[Data Conversion Output]"
               endId="Package\Extract Transactions Data to Staging\OLE DB Destination.Inputs[OLE DB Destination Input]"
+              name="Data Conversion Output"
+              startId="Package\Extract Transactions Data to Staging\Data Conversion.Outputs[Data Conversion Output]" />
+            <path
+              refId="Package\Extract Transactions Data to Staging.Paths[OLE DB Source Output]"
+              endId="Package\Extract Transactions Data to Staging\Data Conversion.Inputs[Data Conversion Input]"
               name="OLE DB Source Output"
               startId="Package\Extract Transactions Data to Staging\OLE DB Source.Outputs[OLE DB Source Output]" />
           </paths>
@@ -2182,41 +2531,79 @@
     design-time-name="Package\Extract Transactions Data to Staging">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="150,42"
           Id="Package\Extract Transactions Data to Staging\OLE DB Source"
           TopLeft="250,99" />
         <NodeLayout
+          Size="156,42"
+          Id="Package\Extract Transactions Data to Staging\Data Conversion"
+          TopLeft="377,194" />
+        <NodeLayout
           Size="171,42"
           Id="Package\Extract Transactions Data to Staging\OLE DB Destination"
-          TopLeft="426,331" />
+          TopLeft="292,344" />
         <EdgeLayout
           Id="Package\Extract Transactions Data to Staging.Paths[OLE DB Source Output]"
           TopLeft="325,141">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="186.5,190"
+              EndConnector="130,53"
               Start="0,0"
-              End="186.5,182.5">
+              End="130,45.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,91" />
+                    End="0,22.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,91"
-                    Point2="0,95"
-                    Point3="4,95" />
+                    Point1="0,22.5"
+                    Point2="0,26.5"
+                    Point3="4,26.5" />
                   <mssgle:LineSegment
-                    End="182.5,95" />
+                    End="126,26.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="182.5,95"
-                    Point2="186.5,95"
-                    Point3="186.5,99" />
+                    Point1="126,26.5"
+                    Point2="130,26.5"
+                    Point3="130,30.5" />
                   <mssgle:LineSegment
-                    End="186.5,182.5" />
+                    End="130,45.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Extract Transactions Data to Staging.Paths[Data Conversion Output]"
+          TopLeft="455,236">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-77.5,108"
+              Start="0,0"
+              End="-77.5,100.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,50" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,50"
+                    Point2="0,54"
+                    Point3="-4,54" />
+                  <mssgle:LineSegment
+                    End="-73.5,54" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-73.5,54"
+                    Point2="-77.5,54"
+                    Point3="-77.5,58" />
+                  <mssgle:LineSegment
+                    End="-77.5,100.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -2241,6 +2628,18 @@
       </Property>
     </Properties>
   </PipelineComponentMetadata>
+  <DtsEventHandler
+    design-time-name="Package\Extract Transactions Data to Staging.EventHandlers[OnPreExecute]">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="163,42"
+          Id="Package\Extract Transactions Data to Staging.EventHandlers[OnPreExecute]\Execute SQL Task"
+          TopLeft="248,125" />
+      </GraphLayout>
+    </LayoutInfo>
+  </DtsEventHandler>
   <PipelineComponentMetadata
     design-time-name="Package\Extract Transactions Data to Staging\OLE DB Destination">
     <Properties>
@@ -2254,17 +2653,5 @@
       </Property>
     </Properties>
   </PipelineComponentMetadata>
-  <DtsEventHandler
-    design-time-name="Package\Extract Transactions Data to Staging.EventHandlers[OnPreExecute]">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
-        <NodeLayout
-          Size="163,42"
-          Id="Package\Extract Transactions Data to Staging.EventHandlers[OnPreExecute]\Execute SQL Task"
-          TopLeft="248,125" />
-      </GraphLayout>
-    </LayoutInfo>
-  </DtsEventHandler>
 </Objects>]]></DTS:DesignTimeProperties>
 </DTS:Executable>
