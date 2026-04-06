@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<DataProfile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/sqlserver/2008/DataDebugger/">
+  <ProfileVersion>1.0</ProfileVersion>
+  <DataSources>
+    <DtsDataSource ID="{38B525BE-C4F6-49A8-A416-F8B2EA21D350}" Name="AZYON.RetailStaging.sa">
+      <DtsConnectionManagerID>AZYON.RetailStaging.sa</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{C7BB816A-EFA2-42CD-8DAB-23CEFFC2936C}" Name="customer.xml">
+      <DtsConnectionManagerID>customer.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{D9341CE2-E9E9-4896-A57A-5A779AF1FDC1}" Name="product.xml">
+      <DtsConnectionManagerID>product.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{4B608139-71BE-4E1D-A60A-7896FD0457D7}" Name="product-categories.xml">
+      <DtsConnectionManagerID>product-categories.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{85D5CAAF-3830-42BE-B327-19D930AA4057}" Name="transactions.xml">
+      <DtsConnectionManagerID>transactions.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+  </DataSources>
+  <DataProfileInput>
+    <ProfileMode>Exact</ProfileMode>
+    <Timeout>0</Timeout>
+    <Requests />
+  </DataProfileInput>
+  <DataProfileOutput>
+    <Profiles />
+  </DataProfileOutput>
+</DataProfile>

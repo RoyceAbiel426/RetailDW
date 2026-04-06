@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Assignment-dwbi-retails\\RetailCube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7396C6-D79A-10E9-BDC2-D3C6861D58E5}|RetailCube.dwproj|D:\\Assignment-dwbi-retails\\RetailCube\\Retail DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{7D7396C6-D79A-10E9-BDC2-D3C6861D58E5}|RetailCube.dwproj|solutionrelative:Retail DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7396C6-D79A-10E9-BDC2-D3C6861D58E5}|RetailCube.dwproj|D:\\Assignment-dwbi-retails\\RetailCube\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{7D7396C6-D79A-10E9-BDC2-D3C6861D58E5}|RetailCube.dwproj|solutionrelative:Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7396C6-D79A-10E9-BDC2-D3C6861D58E5}|RetailCube.dwproj|D:\\Assignment-dwbi-retails\\RetailCube\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{7D7396C6-D79A-10E9-BDC2-D3C6861D58E5}|RetailCube.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "D:\\Assignment-dwbi-retails\\RetailCube\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Dim Customer.dim",
+              "ToolTip": "D:\\Assignment-dwbi-retails\\RetailCube\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-02T13:45:26.943Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "D:\\Assignment-dwbi-retails\\RetailCube\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "D:\\Assignment-dwbi-retails\\RetailCube\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-02T13:43:11.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Retail DW.cube [Design]",
+              "DocumentMoniker": "D:\\Assignment-dwbi-retails\\RetailCube\\Retail DW.cube",
+              "RelativeDocumentMoniker": "Retail DW.cube",
+              "ToolTip": "D:\\Assignment-dwbi-retails\\RetailCube\\Retail DW.cube [Design]",
+              "RelativeToolTip": "Retail DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-02T13:42:45.781Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

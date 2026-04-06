@@ -1,0 +1,56 @@
+--------Retails Sources----------
+
+SELECT TOP (1000) [CategoryID] (varchar(50))
+      ,[CategoryName] (varchar(50))
+      ,[SubCategoryID] (varchar(50))
+      ,[SubCategoryName] (varchar(50))
+  FROM [RetailOLTP].[dbo].[ProductCategories]
+
+SELECT TOP (1000) [StockCode] (varchar(50))
+      ,[Description] (varchar(50))
+      ,[SubCategory] (varchar(50))
+      ,[Category] (varchar(50))
+  FROM [RetailOLTP].[dbo].[Products]
+
+SELECT TOP (1000) [TransactionID] (varchar(50))
+      ,[InvoiceNo] (varchar(50))
+      ,[StockCode] (varchar(50))
+      ,[Quantity] (varchar(50))
+      ,[Price] (varchar(50))
+      ,[InvoiceDate] (varchar(50))
+      ,[CustomerID] (varchar(50))
+  FROM [RetailOLTP].[dbo].[Transactions]
+
+--------Retails Stagings---------
+
+SELECT TOP (1000) [CustomerID] (varchar(50))
+      ,[CustomerName] (varchar(50))
+      ,[Country] (varchar(50))
+      ,[CustomerSegment] (varchar(50))
+      ,[RegistrationDate] (varchar(50))
+  FROM [RetailStaging].[dbo].[stg_Customer]
+
+SELECT TOP (1000) [txn_id] (nvarchar(50))
+      ,[accm_txn_complete_time] (datetime)
+  FROM [RetailStaging].[dbo].[stg_FactCompletionUpdates]
+
+SELECT TOP (1000) [CategoryID] (varchar(50))
+      ,[CategoryName] (varchar(50))
+      ,[SubCategoryID] (varchar(50))
+      ,[SubCategoryName] (varchar(50))
+  FROM [RetailStaging].[dbo].[stg_ProductCategories]
+
+SELECT TOP (1000) [StockCode] (varchar(50))
+      ,[Description] (varchar(50))
+      ,[SubCategory] (varchar(50))
+      ,[Category] (varchar(50))
+  FROM [RetailStaging].[dbo].[stg_Products]
+
+SELECT TOP (1000) [InvoiceNo] (nvarchar(50))
+      ,[StockCode] (nvarchar(50))
+      ,[Description] (nvarchar(50))
+      ,[Quantity] (int)
+      ,[InvoiceDate] (datetime)
+      ,[UnitPrice] (decimal(18,2))
+      ,[CustomerID] (int)
+  FROM [RetailStaging].[dbo].[stg_Transactions]
