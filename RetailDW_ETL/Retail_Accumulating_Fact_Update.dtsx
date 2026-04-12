@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Retail_Accumulating_Fact_Update"
   DTS:PackageType="5"
-  DTS:VersionBuild="12"
-  DTS:VersionGUID="{3FF22A2B-9687-4FD4-AB0F-93487B9FF499}">
+  DTS:VersionBuild="15"
+  DTS:VersionGUID="{58505022-550B-4A27-A437-0B2E55ADEE4D}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACmpRC9BaovPr+O7Zxr/Yg+2/rxn/cg+oF+YCe/pgeOZAAAAAAOgAAAAAIAACAAAAAqhA8BbmPbtgL64pa8Vbx5SbOv+xsQXiA3RVBaMj/xrSAAAACvc9+PN+rQpCqEhVdmV0l8/pBvCE8vHWOptfFMnegwgEAAAADse0yteuSMbpLWc/rt1jWsXM/Am1SD0Lj/kdS2R9fViatRMuNdi3Loe9FrBCk/1GAKxaAlUZIGwFXJoOIz1cTq</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADis+PkAkek1cwcu64Vh2Qm2GknKLKHGY96cfS93hrHJQAAAAAOgAAAAAIAACAAAACWFWOJzSJUohZQY2Qr6U4yyNkYNfwX8QZxr0lkNR5xoSAAAAC+Bfn3Ipnp2sSkDARr5O/NqxkL82Ye9IhpT7TChGprtEAAAACRE4xsus7DrztOwaQq2h0gMQ7dp0aj2nJLSgGbjKk8p3rEGdMd7wjZRiy/FfCdHXiB09beHWp7U2f9lyqSO7GS</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADAM4G+Poqc5hcFRnr73XHslt6ndUZ8ISNdafWtkJHdrAAAAAAOgAAAAAIAACAAAABm1M9ai0Z9Nj3Q+BZ1RqfS2+05hCGAZu5ajUV3hk1PciAAAAANpZlrfRTqLgSn8nQWerEtyEUT82Tkaw6mIJ920l4y70AAAACl55YRO4X5of88WFJXmAWzqSxb8H9uVPDUr7xV8FhVxgsYbVwG38Y5OgRuW/fbg3//A7jKKScIHMAYgAc/3Qdh</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADB8SzIonw1aFgzLWKZdiddUz+6PTVH8DAEU3sIXeYiegAAAAAOgAAAAAIAACAAAAB0WXpc7n3+J183Xeq9DbWEC7UYCxotuCK4Gzq7pPwIoSAAAACjTI09WDRT3jGKu0vN2RZRxmNWo6zZ4ikbqTSxWxbUukAAAADISOy5kj4mW8YfUYzUwyYSRHMXZ09X9N9lliZRJ7zzU8l1e8CYofwhmybMOrNHCqHovx/oX7NE+uZvxedgUZyT</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -85,11 +85,11 @@
                   description="The SQL command to be executed."
                   expressionType="Notify"
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">UPDATE RetailDW.dbo.Fact_Sales
-SET
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">UPDATE [RetailDW].[dbo].[Fact_Sales]
+SET 
     accm_txn_complete_time = ?,
-    txn_process_time_hours = DATEDIFF(MINUTE, accm_txn_create_time, ?) / 60.0
-WHERE txn_id = ?;</property>
+    txn_process_time_hours = ?
+WHERE txn_id = ?</property>
                 <property
                   dataType="System.Int32"
                   description="Specifies the column code page to use when code page information is unavailable from the data source."
@@ -229,15 +229,15 @@ WHERE txn_id = ?;</property>
                   dataType="System.String"
                   description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT
-    u.txn_id,
-    CAST(u.accm_txn_complete_time AS DATETIME) AS accm_txn_complete_time,
-    DATEDIFF(MINUTE, f.accm_txn_create_time, CAST(u.accm_txn_complete_time AS DATETIME)) / 60.0 AS txn_process_time_hours
-FROM RetailStaging.dbo.stg_FactCompletionUpdates u
-INNER JOIN RetailDW.dbo.Fact_Sales f
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor">SELECT 
+    CAST(f.txn_id AS NVARCHAR(50)) AS txn_id,
+    u.accm_txn_complete_time,
+    DATEDIFF(MINUTE, f.accm_txn_create_time, 
+             u.accm_txn_complete_time) / 60.0 AS txn_process_time_hours
+FROM [RetailStaging].[dbo].[stg_FactCompletionUpdates] u
+INNER JOIN [RetailDW].[dbo].[Fact_Sales] f
     ON u.txn_id = f.txn_id
-WHERE u.txn_id IS NOT NULL
-  AND u.accm_txn_complete_time IS NOT NULL;</property>
+WHERE u.accm_txn_complete_time IS NOT NULL</property>
                 <property
                   dataType="System.String"
                   description="The variable that contains the SQL command to be executed."

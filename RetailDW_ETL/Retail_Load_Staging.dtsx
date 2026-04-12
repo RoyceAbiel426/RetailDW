@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Retail_Load_Staging"
   DTS:PackageType="5"
-  DTS:VersionBuild="27"
-  DTS:VersionGUID="{2E174D1E-962C-4AD2-B33B-51611582C5F1}">
+  DTS:VersionBuild="29"
+  DTS:VersionGUID="{0DDF5920-9C5C-4BF3-BD04-8270E67467D6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAtW+LCkDjnRsBeXHEtfu5f0hwSudQj9lKSbn1+baXKUwAAAAAOgAAAAAIAACAAAAA3Eb4TBiYZE0SxRO5m7glRX3AQA5UOGdmUFhKWws6h3yAAAACBOnZnd5Olf2bEk2w3Tt4aMpLSwtbqYbnKjGu5r3H64kAAAAD6pB3kftds2QKGa4TEbX1w8prqygv4F3VTbFdxQh/yVi/DNBYhYMVTJC48eeQ2lzI5rgRyuBDUFNlMMveWNat6</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADT3dtOwVa96MmXGlSldOBhddyNE8q+iLCNLOiV9aVxXwAAAAAOgAAAAAIAACAAAAD6h1jpVUVwMO1kOGnnZXdQNQkl5uobNCiLklaGW+/1xyAAAADd5lzy9o3OGC97XIZIg5bwdq/BQQ0HdmQJNr0lZ7jlAUAAAADh8nlAgPYezXb7PjIt9XWvlQJs5m97UcpZ1QkvC+x0TlCoXwJvGAAzm4ADaR7mG7dN7n32k0Oql/1AYdy0RjC/</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB8Oj9mfRpTLx1XCxLf4b3X6tzP5g4PtmGyVsuEcV6/xQAAAAAOgAAAAAIAACAAAAA9yvWyYG2PSpr9J0Z7ErTTfqHm2L239NhVT8JrE7rPtCAAAAD3qHcx4plYM9x07ZDPHkecwbryiskTEmqEkuCnQkL7ekAAAACupVUlwWee2IQuh4nq8rzrV2S51L6MVxtL45tD5RK65s9m4D0iXWvLFI4L7frMcPObbzhF4MITyzrits1lpWDI</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB0V83GC6GGKfs2XgJtvKSy5IzPEAG2998Vh9OQbzuOBQAAAAAOgAAAAAIAACAAAAA+76p/X7uEqRZJbedaYHPZ08piBkO9VbXGcxdNhuJtYiAAAADxBTnT0/QNZoMPeF4CRIPfeTeFjiA4Ud+jNg64gF7nn0AAAAADg51S8/A3Ys442z2PPDeKuv+hWBcLox+2hTBXqb81cEsYW9CqZa/4VCJ/PCUAuInu69K6IYatNIQVDKqsguQy</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADRZN/W+UvroopRd32WZuIQPb6JZk+kssH0hAVZitMazAAAAAAOgAAAAAIAACAAAABLjm6Cr5/8D5sqhjcQdOUJcahu21PnrAzV4JyO7mDwMSAAAACrAe89v1z1Rm7fDBzqQk3s7H05cP+EbXJJXCtH/xDG/UAAAAAnnhYCEql7IxPP2+vA85mfVUz6Gr8gxszt7dNPxhsyHm8YvYPSRn7cnd+ERTIYyiLMm+S4SjAKmc4BbdwSSC0F</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXKGHbTpS6kOxi0a1cNxU7gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABwbBK2aYGq7iA2EQhhBL0EWNI56BVC0xEflBn7NFw85AAAAAAOgAAAAAIAACAAAAAYSkkPwzpbJr0s9MrV/VEodSreL5RcbjZmlGpeQKicBSAAAAA5BgBBHoLvNqFUjhCayaEZknTxR8R2xl8EaUvLZ7blTkAAAAAP6ms6IeHtmfg6wVud0lWsGRnrcOsoQYVJbEao3TgEj1NoLlxfspJaVfbQwCz2SyuhhWvW+rv1sD8FbDhp9SgG</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -82,7 +82,7 @@
           DTS:RowDelimiter=""
           DTS:TextQualifier="_x0022_"
           DTS:CodePage="1252"
-          DTS:ConnectionString="D:\Assignment-dwbi-retails\customers.csv">
+          DTS:ConnectionString="E:\DWBI\DataSource\customers.csv">
           <DTS:FlatFileColumns>
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -91,7 +91,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CustomerID"
-              DTS:DTSID="{1C934CA0-9FB9-44E2-8535-994D7137D63E}"
+              DTS:DTSID="{7650086F-CF40-48E3-98B6-110EB0BE9FB2}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -100,7 +100,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CustomerName"
-              DTS:DTSID="{19F621D6-40DA-483B-BD49-25B3314D1D3F}"
+              DTS:DTSID="{623C8DC7-DC88-45A7-97B6-323D3726DFA5}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -109,7 +109,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="Country"
-              DTS:DTSID="{8B70318F-50F8-4C5F-B8E9-CC0D28237999}"
+              DTS:DTSID="{7F32FC6B-DCEB-4348-9CCE-EECBF884FE52}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -118,7 +118,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="CustomerSegment"
-              DTS:DTSID="{5DB233E1-C288-4C6C-82BB-4A8D8BFB7916}"
+              DTS:DTSID="{EB13CC8E-1FCD-4F5E-ACCE-7D5538252ED9}"
               DTS:CreationName="" />
             <DTS:FlatFileColumn
               DTS:ColumnType="Delimited"
@@ -127,7 +127,7 @@
               DTS:DataType="129"
               DTS:TextQualified="True"
               DTS:ObjectName="RegistrationDate"
-              DTS:DTSID="{C98A1ACD-7766-4CEB-8812-590B7BDD26EC}"
+              DTS:DTSID="{495DAA0E-95E9-4634-BFC8-5A04CA68B1B4}"
               DTS:CreationName="" />
           </DTS:FlatFileColumns>
         </DTS:ConnectionManager>
@@ -2199,6 +2199,14 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
           Size="280,42"
           Id="Package\Extract Product Categories Data to Staging"
           TopLeft="144,200" />
+        <NodeLayout
+          Size="228,42"
+          Id="Package\Extract Product Data to Staging"
+          TopLeft="164,330" />
+        <NodeLayout
+          Size="251,42"
+          Id="Package\Extract Transactions Data to Staging"
+          TopLeft="154,478" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
           TopLeft="282,103">
@@ -2221,10 +2229,6 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="228,42"
-          Id="Package\Extract Product Data to Staging"
-          TopLeft="164,330" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
           TopLeft="281,242">
@@ -2247,10 +2251,6 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="251,42"
-          Id="Package\Extract Transactions Data to Staging"
-          TopLeft="154,478" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
           TopLeft="278.75,372">
@@ -2282,13 +2282,13 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
       <GraphLayout
         Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="151,42"
-          Id="Package\Extract Customer Data from CSV to Staging\Flat File Source"
-          TopLeft="54,29" />
-        <NodeLayout
           Size="171,42"
           Id="Package\Extract Customer Data from CSV to Staging\OLE DB Destination"
           TopLeft="340,273" />
+        <NodeLayout
+          Size="151,42"
+          Id="Package\Extract Customer Data from CSV to Staging\Flat File Source"
+          TopLeft="54,29" />
         <EdgeLayout
           Id="Package\Extract Customer Data from CSV to Staging.Paths[Flat File Source Output]"
           TopLeft="129.5,71">
@@ -2326,6 +2326,18 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <DtsEventHandler
+    design-time-name="Package\Extract Customer Data from CSV to Staging.EventHandlers[OnPreExecute]">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="163,42"
+          Id="Package\Extract Customer Data from CSV to Staging.EventHandlers[OnPreExecute]\Execute SQL Task"
+          TopLeft="265,129" />
+      </GraphLayout>
+    </LayoutInfo>
+  </DtsEventHandler>
   <PipelineComponentMetadata
     design-time-name="Package\Extract Customer Data from CSV to Staging\OLE DB Destination">
     <Properties>
@@ -2339,18 +2351,6 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
       </Property>
     </Properties>
   </PipelineComponentMetadata>
-  <DtsEventHandler
-    design-time-name="Package\Extract Customer Data from CSV to Staging.EventHandlers[OnPreExecute]">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
-        <NodeLayout
-          Size="163,42"
-          Id="Package\Extract Customer Data from CSV to Staging.EventHandlers[OnPreExecute]\Execute SQL Task"
-          TopLeft="265,129" />
-      </GraphLayout>
-    </LayoutInfo>
-  </DtsEventHandler>
   <TaskHost
     design-time-name="Package\Extract Product Categories Data to Staging">
     <LayoutInfo>
@@ -2401,19 +2401,18 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract Product Categories Data to Staging\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
+  <DtsEventHandler
+    design-time-name="Package\Extract Product Categories Data to Staging.EventHandlers[OnPreExecute]">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="163,42"
+          Id="Package\Extract Product Categories Data to Staging.EventHandlers[OnPreExecute]\Execute SQL Task"
+          TopLeft="280,160" />
+      </GraphLayout>
+    </LayoutInfo>
+  </DtsEventHandler>
   <PipelineComponentMetadata
     design-time-name="Package\Extract Product Categories Data to Staging\OLE DB Destination">
     <Properties>
@@ -2427,18 +2426,19 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
       </Property>
     </Properties>
   </PipelineComponentMetadata>
-  <DtsEventHandler
-    design-time-name="Package\Extract Product Categories Data to Staging.EventHandlers[OnPreExecute]">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
-        <NodeLayout
-          Size="163,42"
-          Id="Package\Extract Product Categories Data to Staging.EventHandlers[OnPreExecute]\Execute SQL Task"
-          TopLeft="280,160" />
-      </GraphLayout>
-    </LayoutInfo>
-  </DtsEventHandler>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract Product Categories Data to Staging\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\Extract Product Data to Staging">
     <LayoutInfo>
@@ -2489,19 +2489,18 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Extract Product Data to Staging\OLE DB Source">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
+  <DtsEventHandler
+    design-time-name="Package\Extract Product Data to Staging.EventHandlers[OnPreExecute]">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="163,42"
+          Id="Package\Extract Product Data to Staging.EventHandlers[OnPreExecute]\Execute SQL Task"
+          TopLeft="243,154" />
+      </GraphLayout>
+    </LayoutInfo>
+  </DtsEventHandler>
   <PipelineComponentMetadata
     design-time-name="Package\Extract Product Data to Staging\OLE DB Destination">
     <Properties>
@@ -2515,18 +2514,19 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
       </Property>
     </Properties>
   </PipelineComponentMetadata>
-  <DtsEventHandler
-    design-time-name="Package\Extract Product Data to Staging.EventHandlers[OnPreExecute]">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
-        <NodeLayout
-          Size="163,42"
-          Id="Package\Extract Product Data to Staging.EventHandlers[OnPreExecute]\Execute SQL Task"
-          TopLeft="243,154" />
-      </GraphLayout>
-    </LayoutInfo>
-  </DtsEventHandler>
+  <PipelineComponentMetadata
+    design-time-name="Package\Extract Product Data to Staging\OLE DB Source">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\Extract Transactions Data to Staging">
     <LayoutInfo>
@@ -2615,6 +2615,18 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <DtsEventHandler
+    design-time-name="Package\Extract Transactions Data to Staging.EventHandlers[OnPreExecute]">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
+        <NodeLayout
+          Size="163,42"
+          Id="Package\Extract Transactions Data to Staging.EventHandlers[OnPreExecute]\Execute SQL Task"
+          TopLeft="248,125" />
+      </GraphLayout>
+    </LayoutInfo>
+  </DtsEventHandler>
   <PipelineComponentMetadata
     design-time-name="Package\Extract Transactions Data to Staging\OLE DB Source">
     <Properties>
@@ -2628,18 +2640,6 @@ WHERE TRY_CAST(t.Quantity AS INT) IS NOT NULL
       </Property>
     </Properties>
   </PipelineComponentMetadata>
-  <DtsEventHandler
-    design-time-name="Package\Extract Transactions Data to Staging.EventHandlers[OnPreExecute]">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
-        <NodeLayout
-          Size="163,42"
-          Id="Package\Extract Transactions Data to Staging.EventHandlers[OnPreExecute]\Execute SQL Task"
-          TopLeft="248,125" />
-      </GraphLayout>
-    </LayoutInfo>
-  </DtsEventHandler>
   <PipelineComponentMetadata
     design-time-name="Package\Extract Transactions Data to Staging\OLE DB Destination">
     <Properties>
