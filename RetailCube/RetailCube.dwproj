@@ -56,14 +56,14 @@
           <ConfigurationSetting>
             <Id>Retail DW</Id>
             <Name>Retail DW</Name>
-            <Value xsi:type="xsd:string">Provider=SQLOLEDB.1;Data Source=Azyon;Password=;User ID=;Initial Catalog=RetailDW</Value>
+            <Value xsi:type="xsd:string">Provider=SQLNCLI11.1;Data Source=localhost;Integrated Security=SSPI;Initial Catalog=RetailDW</Value>
           </ConfigurationSetting>
         </ConnectionMappings>
         <ConnectionSecurityMappings>
           <ConfigurationSetting>
             <Id>Retail DW</Id>
             <Name>Retail DW</Name>
-            <Value xsi:type="xsd:int">1</Value>
+            <Value xsi:type="xsd:int">0</Value>
           </ConfigurationSetting>
         </ConnectionSecurityMappings>
       </Options>
